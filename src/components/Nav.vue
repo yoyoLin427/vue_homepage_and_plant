@@ -60,6 +60,7 @@ export default {
 <style scoped>
 
 .logobar {
+    z-index: 1;
     position:fixed;
     
     width:100%;
